@@ -1,7 +1,7 @@
 {
-  "name": "asteroid",
+  "name": "nebula-antares",
   "version": "2.0.3",
-  "description": "Alternative Meteor client",
+  "description": "Alternative Meteor client used by Antares",
   "main": "lib/asteroid.js",
   "scripts": {
     "build": "babel src --out-dir lib",
